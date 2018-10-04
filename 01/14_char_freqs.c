@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#define CHARS_CNT 10000
+#define CHARS_CNT 255
 
 int main() {
     int i, j, c, totalCnt, minChar, maxChar;
