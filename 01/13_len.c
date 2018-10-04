@@ -55,4 +55,7 @@ int main() {
     printf("\n    |");
     for (i=0; i<MAXLEN; ++i)
         printf("%3d", i+1);
+
+    printf("\n");
+    return 0;
 }
