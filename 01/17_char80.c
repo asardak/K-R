@@ -1,5 +1,5 @@
 #include <stdio.h>
-#define MAXLEN 5
+#define MAXLEN 80
 
 int main() {
     char cur;
